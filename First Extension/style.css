@@ -1,0 +1,15 @@
+h1{
+    color: white
+}
+h2{
+    color: white
+}
+h3{
+    color: white
+}
+body {
+    background-color: rgb(90, 135, 141);
+    border: 5px solid white; 
+    margin: 0; 
+    padding: 10px;
+}
